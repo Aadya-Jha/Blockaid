@@ -17,6 +17,11 @@
   "homepage": "https://github.com/Aadya-Jha/Blockaid#readme",
   "description": "",
   "dependencies": {
-    "ethers": "^6.13.5"
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "hardhat": "^2.22.19"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
   }
 }
