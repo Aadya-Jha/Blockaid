@@ -1,0 +1,22 @@
+{
+  "name": "blockaid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aadya-Jha/Blockaid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aadya-Jha/Blockaid/issues"
+  },
+  "homepage": "https://github.com/Aadya-Jha/Blockaid#readme",
+  "description": "",
+  "dependencies": {
+    "ethers": "^6.13.5"
+  }
+}
